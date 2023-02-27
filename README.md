@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Mohamed from Algeria, and I do web application Development. I really enjoy learning languages and frameworks like React and React Native, as well as work on bootstrap Projects.
 <!--
 **Boumaadm/Boumaadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
