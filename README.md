@@ -4,7 +4,7 @@ I'm Mohamed from Algeria, and I do web application Development. I really enjoy l
 <!--
 **Boumaadm/Boumaadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boumaadm&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boumaadm&show_icons=true&theme=merko&hide=contribs,prs&count_private=true)
 
 
 Here are some ideas to get you started:
