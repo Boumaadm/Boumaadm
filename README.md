@@ -3,6 +3,8 @@
 I'm Mohamed from Algeria, and I do web application Development. I really enjoy learning languages and frameworks like React and React Native, as well as work on bootstrap Projects.
 <!--
 **Boumaadm/Boumaadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boumaadm&show_icons=true&theme=merko)
+
 
 Here are some ideas to get you started:
 
